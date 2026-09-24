@@ -49,28 +49,28 @@ To compile and run this project locally, you will need a standard C compiler (su
 
 Once you launch the program, the main menu dynamically updates based on your available data:
 
-  - ** `Manual Entry (1)` ** : Create new dictionaries by specifying the number of entries, words, and definitions. Files are automatically saved to disk.
+   **`Manual Entry (1)`** : Create new dictionaries by specifying the number of entries, words, and definitions. Files are automatically saved to disk.
 
-  Dictionary Manipulation (2): Load an existing dictionary file or manage an active one (search, add, modify, or delete entries, and view summaries).
+  **`Dictionary Manipulation (2)`**: Load an existing dictionary file or manage an active one (search, add, modify, or delete entries, and view summaries).
 
-  Cross-Linking (3): Select two distinct dictionaries to analyze text definitions and build interactive term-to-term links.
+  **`Cross-Linking (3)`**: Select two distinct dictionaries to analyze text definitions and build interactive term-to-term links.
 
-  Display Links (4): Inspect the relationships and cross-references generated between dictionaries.
+  **`Display Links (4)`**: Inspect the relationships and cross-references generated between dictionaries.
 
-  List Saved Files (5): View all active dictionary files currently stored or loaded in the session.
+  **`List Saved Files (5)`**: View all active dictionary files currently stored or loaded in the session.
 
-  Exit (6): Safely release all dynamically allocated memory and terminate the program.
+  **`Exit (6)`**: Safely release all dynamically allocated memory and terminate the program.
 
 ---
 
-## Technical Skills & Concepts Demonstrated
+## Technical skills & Concepts Demonstrated
 
 
-  Low-Level Memory Management: Custom allocation (malloc) and recursive freeing algorithms (free) designed specifically to prevent memory leaks across deeply nested multi-level dynamic structures.
+  **Low-Level Memory Management**: Custom allocation (malloc) and recursive freeing algorithms (free) designed specifically to prevent memory leaks across deeply nested multi-level dynamic structures.
 
-  String Manipulation & Parsing: Custom pointer arithmetic (liremot) for text tokenization, combined with case-insensitive comparisons (strcasecmp) and character validation filters (char_permis).
+  **String Manipulation & Parsing**: Custom pointer arithmetic (liremot) for text tokenization, combined with case-insensitive comparisons (strcasecmp) and character validation filters (char_permis).
 
-  Relational Data Modeling: Implementation of multi-level pointers to model complex lexical graphs and relational data structures entirely in standard C.
+  **Relational Data Modeling**: Implementation of multi-level pointers to model complex lexical graphs and relational data structures entirely in standard C.
 
 ## Future Improvements / Roadmap
 
@@ -82,7 +82,7 @@ Once you launch the program, the main menu dynamically updates based on your ava
 
 --- 
 
-## Authors & Acknowledgments
+## Authors & Acknowledgments
 
   Developed collaboratively by MSD and AZS.
 
