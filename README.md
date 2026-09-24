@@ -87,4 +87,9 @@ Once you launch the program, the main menu dynamically updates based on your ava
   Developed collaboratively by **Mouad Sheradj Drissi** and **Amr Zaki Salih**.
   Academic Tutor : **Mr. J.P Kotowicz** (Insa Rouen Normandie)
 
----
+--- 
+## Institution
+
+INSA Rouen Normandie
+Department of Mathematical Engineering
+
