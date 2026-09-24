@@ -74,11 +74,11 @@ Once you launch the program, the main menu dynamically updates based on your ava
 
 ## Future Improvements / Roadmap
 
-  [ ] Implement a graphical user interface (GUI) or web interface using a lightweight C framework or Python binding.
+  -Implement a graphical user interface (GUI) or web interface using a lightweight C framework or Python binding.
 
-  [ ] Add support for export formats such as JSON or XML.
+  -Add support for export formats such as JSON or XML.
 
-  [ ] Optimize search performance using balanced binary search trees (AVL/Red-Black trees) or hash tables instead of linear linked lists.
+  -Optimize search performance using balanced binary search trees (AVL/Red-Black trees) or hash tables instead of linear linked lists.
 
 --- 
 
