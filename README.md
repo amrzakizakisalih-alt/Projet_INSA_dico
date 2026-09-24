@@ -84,6 +84,7 @@ Once you launch the program, the main menu dynamically updates based on your ava
 
 ## Authors & Acknowledgments
 
-  Developed collaboratively by MSD and AZS.
+  Developed collaboratively by **Mouad Sheradj Drissi** and **Amr Zaki Salih**.
+  Academic Tutor : **Mr. J.P Kotowicz** (Insa Rouen Normandie)
 
 ---
