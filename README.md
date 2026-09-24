@@ -84,8 +84,11 @@ Once you launch the program, the main menu dynamically updates based on your ava
 
 ## Authors & Acknowledgments
 
-  Developed collaboratively by **Mouad Sheradj Drissi** and **Amr Zaki Salih**.
-  Academic Tutor : **Mr. J.P Kotowicz** (Insa Rouen Normandie)
+  **Mouad Sheradj Drissi**  
+  
+  **Amr Zaki Salih**.
+  
+  Academic Tutor : **Mr. J.P Kotowicz** (INSA Rouen Normandie)
 
 --- 
 ## Institution
